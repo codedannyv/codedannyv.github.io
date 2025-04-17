@@ -5,14 +5,14 @@ It’s built with [Hugo](https://gohugo.io/) and hosted on [GitHub Pages](https:
 I work mostly in finance and insurance data systems by day, so this site reflects what I do by night:  
 Spin up side projects I *swear* I’ll finish. Eventually.
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - **Static Site Generator**: [Hugo](https://gohugo.io/)  
 - **Hosting**: GitHub Pages  
 - **Theme**: [Typo](https://github.com/tomfran/typo)  
 - **CI/CD**: GitHub Actions for auto-deploys  
 
-## 🏗️ Local Development
+## Local Development
 
 If you want to run this blog locally for some reason:
 
@@ -27,12 +27,12 @@ hugo server
 
 Then head to `http://localhost:1313` in your browser.
 
-## 🚀 Deployment
+## Deployment
 
 This blog deploys automatically via GitHub Actions every time I push to `main`.  
 If that ever breaks, future me will fix it. Probably.
 
-## 📁 Structure
+## Structure
 
 Here's a quick tour for the curious:
 
