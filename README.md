@@ -1,5 +1,3 @@
-# My Blog
-
 Hey, I’m Danny and this blog is where I dump my thoughts, code experiments, side quests, and tech rabbit holes. 
 
 It’s built with [Hugo](https://gohugo.io/) and hosted on [GitHub Pages](https://pages.github.com/).
@@ -42,7 +40,7 @@ Here's a quick tour for the curious:
 📁 content/       # Posts, notes, and projects
 📁 static/        # Static files like images or custom JS
 📁 themes/        # Theme files
-config.toml      # Site settings, SEO bits, and lies I tell myself
+hugo.toml      # Site settings, SEO bits, and lies I tell myself
 ```
 
 ---
